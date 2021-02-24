@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login Activity</string>
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_clave">Clave</string>
+    <string name="swicth_guardar">Guardar las credenciales</string>
+    <string name="btn_acceder">ACCEDER</string>
+    <string name="error_faltacredenciales">Falta introducir usuario o contraseña</string>
+    <string name="error_credenciales">Usuario o contraseña incorrectos</string>
+    <string name="borrado_datos">Se han borrado las credenciales guardadas</string>
+
+    <string name="bienvenido">BIENVENIDOS</string>
+    <string name="btn_borrar">BORRAR CREDENCIALES</string>
+
+    <string name="usuarioCredencial">Alvaro</string>
+    <string name="claveCredencial">28835553Q</string>
+</resources>
